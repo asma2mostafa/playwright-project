@@ -9,9 +9,5 @@ A Playwright + TypeScript automation project focused on applying structured test
 - Fixtures and reusable setup  
 - Data-driven testing  
 - Multi-environment configuration  
-- Reporting and test artifacts  
-- Visual and basic performance testing  
-
-### Notes
-
-Primarily developed for practice and experimentation with Playwright.
+- Reporting and test artifacts
+  
